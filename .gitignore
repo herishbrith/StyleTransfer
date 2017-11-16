@@ -1,3 +1,4 @@
+*.DS_Store
 creditcard.csv
 ships-in-satellite-imagery/
 *.pyc
